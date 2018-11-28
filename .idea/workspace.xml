@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d3a0be2-0dc1-4398-a51e-ebffdf7331d0" name="Default Changelist" comment="" />
+    <list default="true" id="6d3a0be2-0dc1-4398-a51e-ebffdf7331d0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/calculate_length.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculate_length.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calculate_length_of_each.py" beforeDir="false" afterPath="$PROJECT_DIR$/calculate_length_of_each.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/join_pickles.py" beforeDir="false" afterPath="$PROJECT_DIR$/join_pickles.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,18 +14,18 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/length_of_audio_files$find_lowes_and_throw_out.coverage" NAME="find_lowes_and_throw_out Coverage Results" MODIFIED="1543429239302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/length_of_audio_files$join_pickles.coverage" NAME="join_pickles Coverage Results" MODIFIED="1543428486510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/length_of_audio_files$which_to_remove.coverage" NAME="which_to_remove Coverage Results" MODIFIED="1543431659110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/length_of_audio_files$calculate_length_of_each.coverage" NAME="calculate_length_of_each Coverage Results" MODIFIED="1543428488943" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/length_of_audio_files$calculate_length.coverage" NAME="calculate_length Coverage Results" MODIFIED="1543426859851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/length_of_audio_files$join_pickles.coverage" NAME="join_pickles Coverage Results" MODIFIED="1543433078025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/length_of_audio_files$calculate_length_of_each.coverage" NAME="calculate_length_of_each Coverage Results" MODIFIED="1543433090870" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/length_of_audio_files$calculate_length.coverage" NAME="calculate_length Coverage Results" MODIFIED="1543433015278" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/calculate_length.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="8" column="16" selection-start-line="8" selection-end-line="9" />
+            <state relative-caret-position="120">
+              <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
               <folding>
                 <element signature="e#0#27#0" expanded="true" />
               </folding>
@@ -29,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/join_pickles.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+            <state relative-caret-position="255">
+              <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -44,8 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/calculate_length_of_each.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="38" selection-start-line="2" selection-end-line="3" />
+            <state relative-caret-position="507">
+              <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -57,7 +61,7 @@
         <entry file="file://$PROJECT_DIR$/find_lowes_and_throw_out.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="330">
-              <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="24" selection-end-column="26" />
+              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="24" selection-end-column="26" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -74,7 +78,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/norm_genres/norm_black.txt">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -112,11 +116,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/calculate_length.py" />
-        <option value="$PROJECT_DIR$/join_pickles.py" />
-        <option value="$PROJECT_DIR$/calculate_length_of_each.py" />
         <option value="$PROJECT_DIR$/find_lowes_and_throw_out.py" />
         <option value="$PROJECT_DIR$/which_to_remove.py" />
+        <option value="$PROJECT_DIR$/calculate_length_of_each.py" />
+        <option value="$PROJECT_DIR$/calculate_length.py" />
+        <option value="$PROJECT_DIR$/join_pickles.py" />
       </list>
     </option>
   </component>
@@ -167,7 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.which_to_remove">
+  <component name="RunManager" selected="Python.calculate_length_of_each">
     <configuration name="calculate_length" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="length_of_audio_files" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -280,11 +284,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.which_to_remove" />
-        <item itemvalue="Python.find_lowes_and_throw_out" />
         <item itemvalue="Python.calculate_length_of_each" />
         <item itemvalue="Python.join_pickles" />
         <item itemvalue="Python.calculate_length" />
+        <item itemvalue="Python.which_to_remove" />
+        <item itemvalue="Python.find_lowes_and_throw_out" />
       </list>
     </recent_temporary>
   </component>
@@ -298,28 +302,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1543423406844</updated>
-      <workItem from="1543423409426" duration="9030000" />
+      <workItem from="1543423409426" duration="9437000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9030000" />
+    <option name="totallyTimeSpent" value="9437000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1050" extended-state="6" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2497332" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.2497332" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="0" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.329718" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Python Console" order="4" weight="0.32900432" />
       <window_info anchor="bottom" id="Docker" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" weight="0.32900432" />
-      <window_info anchor="bottom" id="Run" order="8" weight="0.32900432" />
+      <window_info anchor="bottom" id="Run" order="8" visible="true" weight="0.3286334" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
@@ -351,46 +355,16 @@
     <entry file="file://$PROJECT_DIR$/death2.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/calculate_length.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="8" column="16" selection-start-line="8" selection-end-line="9" />
-          <folding>
-            <element signature="e#0#27#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/join_pickles.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/backups/genre_jsons_without_full_length/black.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/backups/genre_jsons/black.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/calculate_length_of_each.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="38" selection-start-line="2" selection-end-line="3" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/find_lowes_and_throw_out.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="24" selection-end-column="26" />
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="24" selection-end-column="26" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
@@ -422,6 +396,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/norm_genres/norm_black.txt">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calculate_length.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/calculate_length_of_each.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="39" column="9" selection-start-line="39" selection-start-column="9" selection-end-line="39" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/join_pickles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="32" lean-forward="true" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

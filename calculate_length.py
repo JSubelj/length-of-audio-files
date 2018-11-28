@@ -5,7 +5,7 @@ import multiprocessing
 import queue
 import pickle
 import json
-path = "/mnt/mount_point/ML_music_genre_only/"
+path = "/mnt/mount_point/ML_music_norm/"
 genres = ["thrash", "black", "death", "heavy"]
 
 
@@ -22,10 +22,10 @@ def mp_length_featcher(no, genre):
             except:
                 pass
         print("putting in dict")
-        with open("pickles/"+genres[genre]+str(num)+".pckl","wb") as f:
+        with open("genre_pickles_norm/"+genres[genre]+str(num)+".pckl","wb") as f:
             pickle.dump(file_length_d, f)
-        with open("jsons/"+genres[genre]+str(num)+".json","w") as f:
-            json.dump(file_length_d, f)
+        #with open("jsons_norm/"+genres[genre]+str(num)+".json","w") as f:
+        #    json.dump(file_length_d, f)
         #out_q.put(file_length_d)
 
     paths = []
